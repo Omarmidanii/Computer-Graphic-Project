@@ -1,0 +1,25 @@
+// Global
+Model_3DS *tree;
+GLTexture BARK,Leaf;
+
+// InitGL		
+tree = new Model_3DS();
+tree->Load("Tree1.3DS");
+Leaf.LoadBMP("bat.bmp");
+BARK.LoadBMP("bark_loo.bmp");
+
+
+tree->Materials[0].tex=BARK;
+tree->Materials[1].tex=Leaf;
+tree->Materials[2].tex=Leaf;
+tree->Materials[3].tex=Leaf;
+tree->Materials[4].tex=Leaf;
+
+
+tree->pos.x=0;
+tree->pos.y=0;
+tree->pos.z=0;
+tree->scale=1;
+
+//DrawGLScene
+tree->Draw();

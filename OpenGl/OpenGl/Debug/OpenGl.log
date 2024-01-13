@@ -1,0 +1,75 @@
+﻿  main.cpp
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(224,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(261,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(262,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(263,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(264,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(277,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(293,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(307,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(547,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(548,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(549,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(570,60): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(576,110): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(581,60): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(587,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(592,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(674,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(675,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(685,63): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(687,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(688,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(694,63): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(707,53): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(717,53): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(721,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(722,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(734,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(749,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(763,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(782,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(885,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(904,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(964,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(966,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(969,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(972,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1001,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1001,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1001,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1047,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1047,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1054,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1109,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1110,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1113,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1114,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1194,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1334,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1385,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1398,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1399,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1452,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1458,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1459,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1460,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1461,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1462,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1463,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1464,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1464,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1464,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1465,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1465,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1467,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1468,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1469,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1471,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1473,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1483,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1571,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1583,87): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1587,86): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projects On Git\AnotherCopy\OpenGl\OpenGl\main.cpp(1590,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGl.vcxproj -> D:\Projects On Git\AnotherCopy\OpenGl\Debug\OpenGl.exe
